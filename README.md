@@ -4,7 +4,7 @@
 <img align="right" height="244" src="https://www.shareicon.net/data/128x128/2015/12/27/693941_transport_512x512.png">
 
 ### Description of the project
-In this project, we set out to solve the problem of Road Traffic Accident (RTA) in London, United Kingdom by providing a tool to predict RTA risk so that users can make informed decision about their traveling route. We also did a detailed analysis of past data and visuals to gain a better understanding of RTA.
+In this team project for our CSE6242 course, we set out to solve the problem of Road Traffic Accident (RTA) in London, United Kingdom by providing a tool to predict RTA risk so that users can make informed decision about their traveling route. We also did a detailed analysis of past data and visuals to gain a better understanding of RTA.
 
 Our web interface contains two parts, namely exploration and interaction. In the exploration part, we presents our research methodology, algorithm used, analysis and visualization of the data. In the interaction part, user can make use of an interactive dashboard to predict the probability of RTA in their chosen routes.
 
